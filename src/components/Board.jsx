@@ -3,8 +3,8 @@ import Answer from "./Answer"
 import { useState } from "react"
 export default function Board(){
     return(
-        <div className = "container mx-auto">
-            <div className = "">
+        <div class="container mx-auto">
+            <div class="">
                 <Question/>
                 <Answer/>
             </div>

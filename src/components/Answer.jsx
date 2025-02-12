@@ -1,7 +1,7 @@
  export default function Answer(){
      return(
-         <div className = "container mx-auto">
-             <div className = "">
+         <div class="container mx-auto">
+             <div class="">
              </div>
          </div>
      )
